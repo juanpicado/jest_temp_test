@@ -8,7 +8,7 @@ describe('dsadsa', () => {
 		const dd = path.join(os.tmpdir(), '/verdaccio-test');
 
 		console.log("d-->", dd);
-		const tempRoot = fs.mkdtempSync(d);
+		const tempRoot = fs.mkdtempSync(dd);
 
 
 		expect(1).toEqual(1);
