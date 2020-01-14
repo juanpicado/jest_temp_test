@@ -1,0 +1,16 @@
+{
+  "name": "jest_temp_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@verdaccio/babel-preset": "^9.0.0",
+    "jest": "^24.9.0"
+  }
+}
